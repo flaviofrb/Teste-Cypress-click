@@ -1,4 +1,4 @@
-Na minha prática recente e após assistir a uma aula, aprendi alguns detalhes importantes, mas frequentemente negligenciados, ao realizar ações simples com Cypress, como cliques em elementos.
+Na minha prática recente e após assistir a uma aula, aprendi alguns detalhes importantes, mas frequentemente negligenciados, ao realizar ações simples com Cypress, como cliques em elementos. Ou seja, um pequeno exemplo de projeto para demonstrar diferentes situações de clique com Cypress.
 
 Pré-requisitos
 É necessário ter o Node.js e o npm instalados para executar este projeto.
