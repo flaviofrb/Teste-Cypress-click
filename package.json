@@ -1,14 +1,14 @@
 {
   "name": "cy-click",
   "version": "1.0.0",
-  "description": "Sample project to demonstrate different situations of clicking with Cypress",
+  "description": "Exemplo de projeto para demonstrar diferentes situações de clique com Cypress",
   "main": "index.html",
   "scripts": {
     "cy:open": "cypress open",
     "test": "cypress run"
   },
   "keywords": [],
-  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "author": "Flávio flavio.frb.ap@gmail.com",
   "license": "MIT",
   "devDependencies": {
     "cypress": "^13.6.4"
