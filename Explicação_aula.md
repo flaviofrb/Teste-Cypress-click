@@ -1,4 +1,4 @@
-Nesta aula, aprendi alguns detalhes importantes, porém muitas vezes ignorados, quando fazendo ações simples com Cypress, tais como cliques em elementos.
+Na minha prática recente e após assistir a uma aula, aprendi alguns detalhes importantes, mas frequentemente negligenciados, ao realizar ações simples com Cypress, como cliques em elementos.
 
 Pré-requisitos
 É necessário ter o Node.js e o npm instalados para executar este projeto.
